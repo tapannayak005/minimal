@@ -1,8 +1,12 @@
 ---
 layout: default
 ---
+# About
+As a Test Specialist at IBM, I design, develop, and implement test plans, test cases, and test processes for various projects, ensuring high-quality and swift corrective actions. I have worked on an internal project that enhanced my knowledge and skills as a software tester, and enabled me to collaborate with different teams and stakeholders. 
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+I am also pursuing a Master of Science in Data Science using Machine Learning and AI at Liverpool John Moores University, where I am learning how to apply advanced analytical techniques and algorithms to solve real-world problems. I have a Master of Computer Applications in Computer Science from Silicon Institute of Technology, where I gained a strong foundation in programming, data structures, and algorithms. 
+
+I am passionate about computer vision and cloud engineering, and I am always eager to learn new technologies and tools. I enjoy playing video games with challenges and storylines in my free time, as they stimulate my creativity and problem-solving skills. My goal is to leverage my testing and data science skills to create innovative and impactful solutions for the industry.
 
 [Link to another page](./another-page.html).
 
@@ -10,11 +14,11 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Experience
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
+## Test Specialist
 
 > This is a blockquote following a header.
 >
