@@ -10,7 +10,7 @@ Here's where it gets exciting.  My data science education opens doors to automat
 In essence, I'm building a unique bridge between software development and data-driven insights.  This dual expertise positions me as a valuable asset in a world increasingly reliant on both software quality and data-driven decision making.  With my testing experience providing a solid foundation, I'm eager to leverage the power of data science to create innovative solutions for the future.
 
 
-**LinkedIN**: [Link to another page](./another-page.html).
+ [LinkedIn](https://www.linkedin.com/in/tapan-nayak-849391237/).
 
 
 ## SPECIALITIES
